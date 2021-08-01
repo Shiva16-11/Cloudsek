@@ -1,0 +1,12 @@
+-----------------------------------------------------------------------------------------------------------
+Install and run rabbitmq server first on localhost - (https://www.rabbitmq.com/download.html)
+Clone the repository from github
+Cd into cloudsek directory
+Install the following packages -
+1. django - use the command pip install django
+2. pika - use the command pip install pika
+Open two terminal
+On first terminal run python consumer.py
+On second terminal run python manage.py runserver
+
+-------------------------------------------------------------------------------------------------------------
